@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * env_shell - Display the current environment.
  *
@@ -7,6 +8,7 @@
  *
  * Return: Always returns 0.
  */
+ 
 int env_shell(char **args, char __attribute__((__unused__)) **fron)
 {
 
